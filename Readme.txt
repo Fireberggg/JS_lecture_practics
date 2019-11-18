@@ -1,0 +1,1 @@
+Solved lecture practical tasks.
